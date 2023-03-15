@@ -1,0 +1,90 @@
+
+body{
+    background-color: skyblue;
+}
+
+
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: white;
+    border: 0;
+    margin:10px 30px;
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+}
+
+textarea{
+    border-radius: 25px;
+    background-color:white;
+    border: 0;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    margin: 15px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    background-color:rgb(172, 227, 231);
+    text-transform: uppercase;
+    border: 0;
+    font-weight: 600;
+    font-style: oblique;
+    margin: 10px;
+    text-align: center;
+}
+
+button:hover{
+    background-color: rgb(151, 222, 222);
+    
+}
+
+h2{
+    text-align: center;
+    color: rgb(116, 113, 113);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.sponsorship{
+    border: 2px solid rgb(121, 120, 120);
+    border-radius: 25px;
+    
+}
+
+.membership{
+    border: 2px solid rgb(121, 120, 120);
+    border-radius: 25px;
+    background-color: white;
+
+}
+
+.membership input{
+    width: 300px;
+    height: 30px;
+    border-radius: 25px;
+    background-color:skyblue;
+    border: 0;
+    margin:10px 30px;
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.membership textarea{border-radius: 25px;
+    background-color:skyblue;
+    border: 0;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    
+}
+
+.finance{
+    border: 2px solid rgb(121, 120, 120);
+    border-radius: 25px;
+}

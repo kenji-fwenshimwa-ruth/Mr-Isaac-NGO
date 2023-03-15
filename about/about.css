@@ -1,0 +1,94 @@
+
+body{
+    background-color: white;
+}
+
+.intro h1, .intro p{
+    color:black ;
+    text-align: center;
+    
+}
+
+.intro h1{
+    text-shadow: 2px 3px rgb(149, 149, 149) ;
+}
+.vission_mission{
+    display: flex;
+    justify-content: center;
+}
+.mis_vis{
+    width: 30%;
+    height: 35%;
+    font-size: xx-large;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+#Mission{
+    background-color: skyblue;
+    color: white;
+    
+}
+
+#Vission{
+    background-color: white;
+    color: skyblue;
+    border: 1px solid skyblue;
+    
+}
+
+.homes{
+    width: 30%;
+    height: 30%;
+    display: flex;
+    border-radius: 15px;
+    margin: 20px 80px;
+
+    
+}
+.achievements{
+    background-image: url(/images/outreach.jpeg);
+    background-repeat:no-repeat;
+     background-size: cover; 
+}
+.achievements h2{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-style: oblique;
+}
+.achieve{
+    display: flex;
+    justify-content: center;
+    
+}
+#achi2, #achi3{
+    background-color: rgb(114, 206, 243);
+    
+}
+
+#achi1, #achi4{
+    background-color: white;
+    border: 1px solid skyblue;
+}
+
+
+.homes img{
+    margin: 10px 5px;
+    border-radius: 5%;
+}
+#achi2 p, #achi3 p{
+font-weight: 500;
+font: 1em sans-serif;
+margin: 6px;
+color: white;
+}
+
+#achi1 p, #achi4 p{
+    font-weight: 500;
+    font: 1em sans-serif;
+    margin: 6px;
+    color: skyblue;
+}
